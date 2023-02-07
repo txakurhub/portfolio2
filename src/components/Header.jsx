@@ -1,17 +1,14 @@
 const Header = () => {
   return (
     <header id="header">
-      <h1>Big Picture</h1>
+      <h1>Leandro Pereyra</h1>
       <nav>
         <ul>
           <li>
             <a href="#intro">Intro</a>
           </li>
           <li>
-            <a href="#one">What I Do</a>
-          </li>
-          <li>
-            <a href="#two">Who I Am</a>
+            <a href="#about">Who I Am</a>
           </li>
           <li>
             <a href="#work">My Work</a>
